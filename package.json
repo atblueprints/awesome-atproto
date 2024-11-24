@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "awesome-lint": "^1.2.0",
+    "generator-awesome-list": "^2.0.2",
+    "yo": "^5.0.0"
+  }
+}
