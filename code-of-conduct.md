@@ -1,3 +1,5 @@
+<!--lint disable awesome-badge awesome-toc -->
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
