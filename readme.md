@@ -26,7 +26,7 @@
 - [First impressions of Bluesky's AT Protocol](https://educatedguesswork.org/posts/atproto-firstlook/): in-depth analysis of Bluesky's ATProto, highlighting its aim to create a decentralized social media architecture
 - [Nostr and ATProto](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html): comparison of Nostr and ATProto, two decentralized social media protocols, exploring their origins, similarities, and differences
 - [How decentralized is Bluesky really?](https://dustycloud.org/blog/how-decentralized-is-bluesky/): critical examination of Bluesky's decentralization claims and its architectural challenges compared to established protocols
-- [Reply on Bluesky and Decentralization](https://whtwnd.com/bnewbold.net/3lbvbtqrg5t2t)Ñ: reply to Christine Lemmer-Webber's thoughtful (and widely read) "How decentralized is Bluesky really?" blog post
+- [Reply on Bluesky and Decentralization](https://whtwnd.com/bnewbold.net/3lbvbtqrg5t2t): reply to Christine Lemmer-Webber's thoughtful (and widely read) "How decentralized is Bluesky really?" blog post
 - [What is atproto.com good for?](https://bnewbold.net/2022/atproto_thoughts/): technical exploration of ATProto's design principles, architectural challenges, and potential limitations as a decentralized social media protocol
 - [The AT Protocol Architecture](https://hackernoon.com/the-at-protocol-architecture): analysis of the ATProto's architecture
 - [Notes on Running a Full-Network atproto Relay (July 2024)](https://whtwnd.com/bnewbold.net/entries/Notes%20on%20Running%20a%20Full-Network%20atproto%20Relay%20(July%202024))
