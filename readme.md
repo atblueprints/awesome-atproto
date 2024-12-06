@@ -56,6 +56,7 @@
 - [PinkSea](https://github.com/shinolabs/PinkSea/tree/master/PinkSea.Lexicons/com/shinolabs/pinksea)
 - [place.blue](https://github.com/QuietImCoding/place.blue/tree/main/atproto/lexicons)
 - [Skylights](https://github.com/Gregoor/skylights/tree/main/web/lexicons)
+- [Skymdb](https://github.com/safwanyp/skymdb/tree/main/domain/lexicons)
 - [Smoke Signal](https://github.com/SmokeSignal-Events/lexicon)
 - [Whitewind](https://github.com/whtwnd/whitewind-blog/tree/main/lexicons/com/whtwnd/blog) 
 
