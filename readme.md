@@ -39,7 +39,11 @@
 ## Platforms
 
 - [Bluesky](https://bsky.social): our beloved social network and main ATProto platform
+- [Blue Place](https://place.blue/): massive real-time collaborative canvas
 - [Frontpage](https://frontpage.fyi/): federated link aggregator
+- [Linkat](https://linkat.blue/): link in bio for Bluesky
+- [PinkSea](https://pinksea.art/): oekaki BBS board
+- [Skylights](https://skylights.my/): 
 - [Smoke Signal](https://smokesignal.events/): Smoke Signal Events allows you to create and manage events and RSVPs
 - [Whitewind](https://whtwnd.com/): Markdown blog service using ATProto with no registration required
 
@@ -48,6 +52,10 @@
 - [Bluemoji](https://github.com/aendra-rininsland/bluemoji/tree/main/schema/blue.moji)
 - [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky)
 - [Frontage](https://github.com/likeandscribe/frontpage/tree/main/lexicons/fyi/unravel/frontpage)
+- [Linkat](https://github.com/mkizka/linkat/tree/main/lexicons/blue/linkat)
+- [PinkSea](https://github.com/shinolabs/PinkSea/tree/master/PinkSea.Lexicons/com/shinolabs/pinksea)
+- [place.blue](https://github.com/QuietImCoding/place.blue/tree/main/atproto/lexicons)
+- [Skylights](https://github.com/Gregoor/skylights/tree/main/web/lexicons)
 - [Smoke Signal](https://github.com/SmokeSignal-Events/lexicon)
 - [Whitewind](https://github.com/whtwnd/whitewind-blog/tree/main/lexicons/com/whtwnd/blog) 
 
