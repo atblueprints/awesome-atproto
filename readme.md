@@ -50,6 +50,7 @@
 - [recipe.exchange](https://recipe.exchange/)
 - [Skylights](https://skylights.my/): book reviews
 - [Smoke Signal](https://smokesignal.events/): Smoke Signal Events allows you to create and manage events and RSVPs
+- [Sparta Social](https://github.com/dblock/sparta-social): exercise activity tracker
 - [Whitewind](https://whtwnd.com/): Markdown blog service using ATProto with no registration required
 
 ### Bluesky
@@ -83,6 +84,7 @@ For more Bluesky tools, check [Awesome Bluesky](https://github.com/notjuliet/awe
 - [Skylights](https://github.com/Gregoor/skylights/tree/main/web/lexicons)
 - [Skymdb](https://github.com/safwanyp/skymdb/tree/main/domain/lexicons)
 - [Smoke Signal](https://github.com/SmokeSignal-Events/lexicon)
+- [Sparta Social](https://github.com/dblock/sparta-social/tree/main/lexicons)
 - [Whitewind](https://github.com/whtwnd/whitewind-blog/tree/main/lexicons/com/whtwnd/blog) 
 
 ## Contribute
