@@ -43,6 +43,7 @@
 - [Blue Place](https://place.blue/): massive real-time collaborative canvas
 - [Bookhive](https://bookhive.buzz/): Goodreads alternative 
 - [Frontpage](https://frontpage.fyi/): federated link aggregator
+- [GrayHaze](https://grayhaze.live/about): live streaming service (alpha)
 - [Linkat](https://linkat.blue/): link in bio for Bluesky
 - [Pastesphere](https://pastesphere.link/): Pastebin alternative
 - [Picosky](https://psky.social/): ATProto chatting appview
@@ -50,7 +51,7 @@
 - [recipe.exchange](https://recipe.exchange/)
 - [Skylights](https://skylights.my/): book reviews
 - [Smoke Signal](https://smokesignal.events/): Smoke Signal Events allows you to create and manage events and RSVPs
-- [Sparta Social](https://github.com/dblock/sparta-social): exercise activity tracker
+- [Sparta Social](https://github.com/dblock/sparta-social): exercise activity tracker (wip)
 - [Whitewind](https://whtwnd.com/): Markdown blog service using ATProto with no registration required
 
 ### Bluesky
@@ -75,6 +76,7 @@ For more Bluesky tools, check [Awesome Bluesky](https://github.com/notjuliet/awe
 - [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky)
 - [Bookhive](https://github.com/nperez0111/bookhive/tree/main/lexicons)
 - [Frontage](https://github.com/likeandscribe/frontpage/tree/main/lexicons/fyi/unravel/frontpage)
+- [GrayHaze](https://github.com/hugeblank/grayhaze.live/tree/main/lexicons/live/grayhaze)
 - [Linkat](https://github.com/mkizka/linkat/tree/main/lexicons/blue/linkat)
 - [Pastesphere](https://github.com/echo8/pastesphere/tree/main/lexicons)
 - [Picosky](https://github.com/psky-atp/appview/tree/main/lexicons/social/psky)
