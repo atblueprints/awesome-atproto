@@ -48,14 +48,15 @@
 - [Pastesphere](https://pastesphere.link/): Pastebin alternative
 - [Picosky](https://psky.social/): ATProto chatting appview
 - [PinkSea](https://pinksea.art/): oekaki BBS 
-- [recipe.exchange](https://recipe.exchange/)
+- [recipe.exchange](https://recipe.exchange/): cooking recipes sharing
 - [Skylights](https://skylights.my/): book reviews
-- [Smoke Signal](https://smokesignal.events/): Smoke Signal Events allows you to create and manage events and RSVPs
+- [Smoke Signal](https://smokesignal.events/): event creation and managing
 - [Sparta Social](https://github.com/dblock/sparta-social): exercise activity tracker (wip)
 - [Whitewind](https://whtwnd.com/): Markdown blog service using ATProto with no registration required
 
 ### Bluesky
 
+- [ClearSky](https://clearsky.app/): tool to explore Bluesky accounts
 - [cleanfollow](https://cleanfollow-bsky.pages.dev/): select inactive or blocked accounts to unfollow
 - [Handles directory](https://blue.mackuba.eu/directory/): handles ranking by TLDs
 - [Labellers](https://blue.mackuba.eu/labellers/): list of known labellers
