@@ -1,6 +1,6 @@
 # Awesome ATProto [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> AT Protocol is a federated protocol for building social applications on an open, decentralized network
+> [AT Protocol](https://atproto.com/) is a federated protocol for building social applications on an open, decentralized network
 
 ## Contents
 
