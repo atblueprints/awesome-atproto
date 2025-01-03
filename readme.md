@@ -18,7 +18,6 @@
     * [Bluesky](#bluesky)
 * [Tools](#tools)
 * [Lexicons](#lexicons)
-* [Contribute](#contribute)
 
 ## AT Protocol
 
@@ -97,6 +96,6 @@ For more Bluesky tools, check [Awesome Bluesky](https://github.com/notjuliet/awe
 - [Sparta Social](https://github.com/dblock/sparta-social/tree/main/lexicons)
 - [Whitewind](https://github.com/whtwnd/whitewind-blog/tree/main/lexicons/com/whtwnd/blog) 
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
