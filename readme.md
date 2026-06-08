@@ -76,6 +76,7 @@ For more Bluesky tools, check [Awesome Bluesky](https://github.com/notjuliet/awe
 
 * [ATFile](https://github.com/ziodotsh/atfile) - Store and retrieve files on the ATmosphere.
 * [ShopSavvy for Bluesky](https://github.com/shopsavvy/bluesky-shopsavvy) - AT Protocol suite: reactive mention bot for real-time price lookups, a custom deals feed generator, and a daily deal poster.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server for AI agent wallet trust scoring. Verify AT Protocol bot and agent wallet identity before x402 micropayments or wallet-gated interactions. Free tools: `score_agent(wallet)`, `preflight_check(wallet)`. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Lexicons
 
