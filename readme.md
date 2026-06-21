@@ -96,6 +96,7 @@ Find below each platform's lexicons:
 * [PinkSea](https://github.com/shinolabs/PinkSea/tree/master/PinkSea.Lexicons/com/shinolabs/pinksea)
 * [place.blue](https://github.com/QuietImCoding/place.blue/tree/main/atproto/lexicons)
 * [recipe.exchange](https://recipe.exchange/lexicons/)
+* [Skittr](https://tangled.org/yoyle.city/skittr/tree/main/lexicons)
 * [Skylights](https://github.com/Gregoor/skylights/tree/main/web/lexicons)
 * [Skymdb](https://github.com/safwanyp/skymdb/tree/main/domain/lexicons)
 * [Smoke Signal](https://github.com/SmokeSignal-Events/lexicon)
