@@ -47,6 +47,7 @@
 * [Bluesky](https://bsky.social) - The beloved social network and main ATProto platform.
 * [Blue Place](https://place.blue/) - Massive real-time collaborative canvas.
 * [Bookhive](https://bookhive.buzz/) - Goodreads alternative.
+* [delta-git](https://code.widespread.fyi) - atproto-native, client-first git forge on Cloudflare: Git Smart HTTP v2, DID identity, Tangled-compatible, Radicle mirror-out.
 * [Frontpage](https://frontpage.fyi/) - Federated link aggregator.
 * [GrayHaze](https://grayhaze.live/about) - Live streaming service (alpha).
 * [Linkat](https://linkat.blue/) - Link in bio for Bluesky.
