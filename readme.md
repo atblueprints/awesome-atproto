@@ -62,7 +62,7 @@
 
 ### Bluesky
 
-* [ClearSky](https://clearsky.app/) - Tool to explore Bluesky accounts.
+* [Skylens](https://skylens.redflag.ps/) - See who blocks a Bluesky account, moderation lists and their subscribers, labels and network stats (ClearSky alternative).
 * [cleanfollow](https://cleanfollow-bsky.pages.dev/) - Select inactive or blocked accounts to unfollow.
 * [Handles directory](https://blue.mackuba.eu/directory/) - Handles ranking by TLDs.
 * [Labellers](https://blue.mackuba.eu/labellers/) - List of known labellers.
