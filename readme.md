@@ -76,6 +76,7 @@ For more Bluesky tools, check [Awesome Bluesky](https://github.com/notjuliet/awe
 ## Tools
 
 * [ATFile](https://github.com/ziodotsh/atfile) - Store and retrieve files on the ATmosphere.
+* [Echoly](https://echoly.2cstudio.app) - Post scheduler for Bluesky alongside X, Telegram channels, Mastodon and Discord, with a JSON API and a remote MCP server. Free plan, paid from $8/mo.
 * [OpenPost](https://github.com/rodrgds/openpost) - Self-hosted social publishing tool that schedules posts to Bluesky through AT Protocol alongside other networks.
 * [ONYX](https://onyxhq.us) - Bluesky-native, AT-Protocol post scheduler with AI-assisted drafting, analytics, and free Bluesky tools. $7/mo flat, free tier.
 * [ShopSavvy for Bluesky](https://github.com/shopsavvy/bluesky-shopsavvy) - AT Protocol suite: reactive mention bot for real-time price lookups, a custom deals feed generator, and a daily deal poster.
