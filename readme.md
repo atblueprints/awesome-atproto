@@ -55,6 +55,7 @@
 * [PinkSea](https://pinksea.art/) - Oekaki BBS.
 * [recipe.exchange](https://recipe.exchange/) - Cooking recipes sharing.
 * [Skylights](https://skylights.my/) - Book reviews.
+* [SkyScribe](https://skyscribe.app/) - Blog and website builder that stores articles as `site.standard` records in your own repository, with an [SDK](https://github.com/ACregan/skyscribe-sdk) for showing them on any site.
 * [Smoke Signal](https://smokesignal.events/) - Event creation and managing.
 * [Sparta Social](https://github.com/dblock/sparta-social) - Exercise activity tracker (wip).
 * [TouchGrass](https://touchgrass.network) - An opinionated social network, ATProto- and ActivityPub-compatible, with a focus on real life, real friends, portability & interoperability.
@@ -98,6 +99,7 @@ Find below each platform's lexicons:
 * [PinkSea](https://github.com/shinolabs/PinkSea/tree/master/PinkSea.Lexicons/com/shinolabs/pinksea)
 * [place.blue](https://github.com/QuietImCoding/place.blue/tree/main/atproto/lexicons)
 * [recipe.exchange](https://recipe.exchange/lexicons/)
+* [site.standard](https://standard.site/docs/lexicons/publication)
 * [Skylights](https://github.com/Gregoor/skylights/tree/main/web/lexicons)
 * [Skymdb](https://github.com/safwanyp/skymdb/tree/main/domain/lexicons)
 * [Smoke Signal](https://github.com/SmokeSignal-Events/lexicon)
