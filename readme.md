@@ -80,6 +80,8 @@ For more Bluesky tools, check [Awesome Bluesky](https://github.com/notjuliet/awe
 * [ONYX](https://onyxhq.us) - Bluesky-native, AT-Protocol post scheduler with AI-assisted drafting, analytics, and free Bluesky tools. $7/mo flat, free tier.
 * [ShopSavvy for Bluesky](https://github.com/shopsavvy/bluesky-shopsavvy) - AT Protocol suite: reactive mention bot for real-time price lookups, a custom deals feed generator, and a daily deal poster.
 
+* [SaveByLink Media Tools](https://github.com/WaterJason/savebylink-media-tools) - MIT-licensed zero-dependency ATProto PDS `getBlob` video resolver CLI, FFmpeg WebAssembly preset builders, and live zero-storage verification suite.
+
 ## Lexicons
 
 Lexicon is a schema definition language used to describe atproto records, HTTP endpoints (XRPC), and event stream messages.
